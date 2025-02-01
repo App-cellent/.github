@@ -31,11 +31,14 @@ DotheG : do the Green
 </br>
 
 ##  📊 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀**
+### members
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a7daedf3-308a-41ef-bd33-076b1b60b3f8">
+
 ### Stacks
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/5fbf4398-060f-4212-b17a-559f485db976">
 
 ### FlowCharts
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/facab358-ae19-44fa-b1cb-9598aedd3934">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ac98ef18-448b-4e01-958b-77d87a03ae90">
 
 
 </br>
