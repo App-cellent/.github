@@ -31,22 +31,23 @@ DotheG : do the Green
 </br>
 
 ##  📊 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀**
-### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
+### Stacks
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/7bde8dd9-a799-4187-a67b-c0a4abb8a7d7">
 
-### Flow Chart
+### FlowCharts
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/facab358-ae19-44fa-b1cb-9598aedd3934">
 
-- 현 프로젝트는 크게 로그인 페이지, 홈 화면 페이지, 게시판 페이지, 마이페이지로 구성되어 있습니다.
-- 웹 페이지의 상단의 네비게이션 바를 통해 해당 페이지로 이동하실 수 있습니다. 
 
 </br>
 
 ## 💡𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 
-| 𝗙𝗲𝗮𝘁1 |  𝗙𝗲𝗮𝘁2 |
-|-------------|--------|
-| ![image](https://github.com/user-attachments/assets/e2924981-15f6-46ef-92dd-b9ee6d46c7f0) | ![image](https://github.com/user-attachments/assets/856b0381-212c-4f98-ac33-9bd10afa6682) |
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/27e9b559-a2d6-42c7-91eb-53076780b2b6">
 
 
 </br>
+
+## 🔗 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
+- <a href="https://github.com/App-cellent/29th_2_appcellent_dotheG_back.git">BE Address</a>
+- <a href="https://github.com/App-cellent/29th_2_appcellent_dotheG_front.git">FE Address</a>
+- <a href="https://www.figma.com/design/1IOHaf6MWuprzsXIj4XMyh/2024-2-%EC%95%B1%EC%84%A4%EB%9F%B0%ED%8A%B8_%EC%95%B1-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&node-type=CANVAS&t=otNNLNviDjm77aYK-0">Figma</a>
