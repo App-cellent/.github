@@ -32,7 +32,7 @@ DotheG : do the Green
 
 ##  📊 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀**
 ### Stacks
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/7bde8dd9-a799-4187-a67b-c0a4abb8a7d7">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/5fbf4398-060f-4212-b17a-559f485db976">
 
 ### FlowCharts
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/facab358-ae19-44fa-b1cb-9598aedd3934">
