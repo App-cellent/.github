@@ -1,10 +1,9 @@
 # DotheG : do the Green 🌱
 <img src="https://github.com/user-attachments/assets/0f2b0823-5b82-42a6-99c1-287ac3d733df" width="480"/>
 
-
+### 🏆 우수상 (3등) 수상 🏆
 > 2024 2학기 숙명 중앙 동아리 SOLUX appcellent(앱설런트) 팀
 > 기간 : 24.9.2 ~ 25.2.3
-
 </br>
 
 ## 🔥 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
